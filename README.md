@@ -197,3 +197,5 @@ $ chmod +x pre-commit.sh
 
 $ ln -s ../../pre-commit.sh .git/hooks/pre-commit
 ```
+
+new1
