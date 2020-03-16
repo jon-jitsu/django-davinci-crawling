@@ -200,3 +200,4 @@ $ ln -s ../../pre-commit.sh .git/hooks/pre-commit
 
 new1
 new2
+new3
